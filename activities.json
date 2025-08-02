@@ -58,7 +58,7 @@
     {
         "activity": "CONJUNTOS - Ejercicio 15: Implementa una función que reciba una lista de números con duplicados y use un ciclo for para crear un conjunto con números únicos. Luego compara el tamaño original vs el conjunto para mostrar cuántos duplicados había.",
         "solution": "src/ejercicio_15.py"
-    },
+    },  
     {
         "activity": "DICCIONARIOS - Ejercicio 16: Crea una función que simule un inventario de productos. Usa un diccionario para almacenar producto:cantidad y un ciclo while para mostrar un menú que permita agregar, actualizar, eliminar productos y mostrar el inventario completo.",
         "solution": "src/ejercicio_16.py"
